@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dionimfxgmail.avaliacaopdm.MainActivity">
+    <item
+        android:id="@+id/action_calculadora"
+        android:orderInCategory="100"
+        android:title="@string/action_calculadora"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cad_autor"
+        android:orderInCategory="100"
+        android:title="@string/action_cad_autor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cad_editora"
+        android:orderInCategory="100"
+        android:title="@string/action_cad_editora"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cad_livro"
+        android:orderInCategory="100"
+        android:title="@string/action_cad_livro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cad_usuario"
+        android:orderInCategory="100"
+        android:title="@string/action_cad_usuario"
+        app:showAsAction="never" />
+</menu>
